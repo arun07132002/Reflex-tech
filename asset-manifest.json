@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Reflex-tech/static/css/main.3032bd4d.css",
+    "main.js": "/Reflex-tech/static/js/main.b6d80ac6.js",
+    "static/media/first.png": "/Reflex-tech/static/media/first.77dfe99e7baaa2bd9b81.png",
+    "static/media/secound.jpg": "/Reflex-tech/static/media/secound.9983f4e6b24874fd3e2d.jpg",
+    "static/media/third.jpg": "/Reflex-tech/static/media/third.2e15b8df38b77baae84b.jpg",
+    "static/media/enterprise.png": "/Reflex-tech/static/media/enterprise.ef625a8d66d76c45f756.png",
+    "static/media/IT.jpg": "/Reflex-tech/static/media/IT.9ab6935022e4b824b5fb.jpg",
+    "static/media/Web.png": "/Reflex-tech/static/media/Web.bb3b0851e8b4bd5c2d0b.png",
+    "static/media/hosting.png": "/Reflex-tech/static/media/hosting.6210570c3f2172c3787b.png",
+    "static/media/digital.png": "/Reflex-tech/static/media/digital.4de901945e0b278de9fc.png",
+    "index.html": "/Reflex-tech/index.html",
+    "main.3032bd4d.css.map": "/Reflex-tech/static/css/main.3032bd4d.css.map",
+    "main.b6d80ac6.js.map": "/Reflex-tech/static/js/main.b6d80ac6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3032bd4d.css",
+    "static/js/main.b6d80ac6.js"
+  ]
+}
